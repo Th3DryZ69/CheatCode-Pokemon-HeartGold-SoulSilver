@@ -1,5 +1,4 @@
 # CheatCode Pokemon HeartGold/SoulSilver
-
 - [105 Victoires à la Tour de Combat](#105-victoires-à-la-tour-de-combat)
 - [5 Feuilles d'Or](#5-feuilles-dor)
 - [9 999 999 Watts pour le Pokéwalker](#9-999-999-watts-pour-le-pokéwalker)

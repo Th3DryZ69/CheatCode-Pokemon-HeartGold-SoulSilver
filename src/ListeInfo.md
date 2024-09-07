@@ -1,15 +1,15 @@
 ### Liste des types
 |Hex|Types|Hex|Types|
 |:-:|:-:|:-:|:-:|
-|00|![Normal](./asset/types/Normal.gif)|09|![Aucun](./asset/types/Inconnu.gif)|
-|01|![Combat](./asset/types/Combat.gif)|0A|![Feu](./asset/types/Feu.gif)|
-|02|![Vol](./asset/types/Vol.gif)|0B|![Eau](./asset/types/Eau.gif)|
-|03|![Poison](./asset/types/Poison.gif)|0C|![Plante](./asset/types/Plante.gif)|
-|04|![Sol](./asset/types/Sol.gif)|0D|![Electr](./asset/types/Electrique.gif)|
-|05|![Roche](./asset/types/Roche.gif)|0E|![Psy](./asset/types/Psy.gif)|
-|06|![Insect](./asset/types/Insecte.gif)|0F|![Glace](./asset/types/Glace.gif)|
-|07|![Spectr](./asset/types/Spectre.gif)|10|![Dragon](./asset/types/Dragon.gif)|
-|08|![Acier](./asset/types/Acier.gif)|11|![Tenebr](./asset/types/Tenebres.gif)|
+|00|![Normal](../asset/types/Normal.gif)|09|![Aucun](../asset/types/Inconnu.gif)|
+|01|![Combat](../asset/types/Combat.gif)|0A|![Feu](../asset/types/Feu.gif)|
+|02|![Vol](../asset/types/Vol.gif)|0B|![Eau](../asset/types/Eau.gif)|
+|03|![Poison](../asset/types/Poison.gif)|0C|![Plante](../asset/types/Plante.gif)|
+|04|![Sol](../asset/types/Sol.gif)|0D|![Electr](../asset/types/Electrique.gif)|
+|05|![Roche](../asset/types/Roche.gif)|0E|![Psy](../asset/types/Psy.gif)|
+|06|![Insect](../asset/types/Insecte.gif)|0F|![Glace](../asset/types/Glace.gif)|
+|07|![Spectr](../asset/types/Spectre.gif)|10|![Dragon](../asset/types/Dragon.gif)|
+|08|![Acier](../asset/types/Acier.gif)|11|![Tenebr](../asset/types/Tenebres.gif)|
 ___
 ### Nombre d'Objets à jeter en fonction de la Nature voulue pour le Générateur
 |Nombre|Nature|Nombre|Nature|
