@@ -2897,5 +2897,4 @@ ___
 - Code:
 ```
 
-```#   C h e a t C o d e - P o k e m o n - H e a r t G o l d - S o u l S i l v e r  
- 
+```
