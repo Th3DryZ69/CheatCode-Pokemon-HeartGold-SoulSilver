@@ -12,11 +12,13 @@
 - [Avoir Tous les Blocs Safari](#avoir-tous-les-blocs-safari)
 - [Bonheur Maximum](#bonheur-maximum)
 - [Bug Fix](#bug-fix)
+- [Capturer les Pokemon des dresseurs](#capturer-les-pokemon-des-dresseurs)
 - [Changer l'Année de Capture d'un Pokémon](#changer-lannée-de-capture-dun-pokémon)
 - [Changer l'apparence du joueur](#changer-lapparence-du-joueur)
 - [Changer la forme de votre Motisma](#changer-la-forme-de-votre-motisma)
 - [Changer le Jour de Capture d'un Pokémon](#changer-le-jour-de-capture-dun-pokémon)
 - [Changer le Mois de Capture d'un Pokémon](#changer-le-mois-de-capture-dun-pokémon)
+- [Changer le Pokémon qui spawn ](#changer-le-pokémon-qui-spawn)
 - [Changer le Sexe du 1er Pokémon de la Boîte 1](#changer-le-sexe-du-1er-pokémon-de-la-boîte-1)
 - [Clonage de Pokémon](#clonage-de-pokémon)
 - [Code de Téléportation](#code-de-téléportation)
@@ -2888,6 +2890,27 @@ D7000000 02000010
 D4000000 00000010
 B211189E 00000000
 D7000000 00001104
+D2000000 00000000
+```
+___
+### Capturer les Pokemon des dresseurs
+- Manipulation: Pas de Manip'
+- Code:
+```
+9224672a 00002101
+1224672a 00002100
+d2000000 00000000
+```
+___
+### Changer le Pokémon qui spawn 
+- Manipulation: Pas de Manip'
+- Note: Remplacer les XXX par le numéro du pokémon, exemple: Herbizare est le numéro 1 dans le pokédex ducoup sa sera 001
+- Code:
+```
+52247DAC 582000C0
+12247DAA 00004801
+02247DAC E0021C39
+02247DB0 00000XXX
 D2000000 00000000
 ```
 ___
