@@ -1,4 +1,5 @@
 # CheatCode Pokemon HeartGold/SoulSilver
+- [1 Coup tue Pokémon ](#1-coup-tue-pokémon )
 - [105 Victoires à la Tour de Combat](#105-victoires-à-la-tour-de-combat)
 - [5 Feuilles d'Or](#5-feuilles-dor)
 - [9 999 999 Watts pour le Pokéwalker](#9-999-999-watts-pour-le-pokéwalker)
@@ -12,6 +13,7 @@
 - [Avoir Tous les Blocs Safari](#avoir-tous-les-blocs-safari)
 - [Bonheur Maximum](#bonheur-maximum)
 - [Bug Fix](#bug-fix)
+- [Capture Facile](#capture-facile)
 - [Capturer les Pokemon des dresseurs](#capturer-les-pokemon-des-dresseurs)
 - [Changer l'Année de Capture d'un Pokémon](#changer-lannée-de-capture-dun-pokémon)
 - [Changer l'apparence du joueur](#changer-lapparence-du-joueur)
@@ -2912,6 +2914,29 @@ ___
 02247DAC E0021C39
 02247DB0 00000XXX
 D2000000 00000000
+```
+___
+### Capture Facile
+- Manipulation: Pas de Manip'
+- Code:
+```
+92247632 00002801
+12247632 00004280
+d2000000 00000000
+```
+___
+### 1 Coup tue Pokémon 
+- Manipulation: Pressez SELECT
+- Code:
+```
+94000130 fffb0000
+621118a0 00000000
+b21118a0 00000000
+10049f20 00000001
+10049f24 00000001
+1004a0a0 00000001
+1004a0a4 00000001
+d2000000 00000000
 ```
 ___
 ### 
