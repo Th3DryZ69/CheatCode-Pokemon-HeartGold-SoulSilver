@@ -80,7 +80,7 @@
 - [Obtenir Tous les Badges de Kanto](#obtenir-tous-les-badges-de-kanto)
 - [Pokédex Jotho Complet](#pokédex-jotho-complet)
 - [Pokédex National Complet](#pokédex-national-complet)
-- [Pokémon Chromatiques](#pokémon-chromatiques)
+- [Tous les Pokémons sont chromatiques](#tous-les-pokémons-sont-chromatiques)
 - [Posséder 9999 Points sur la Carte Bleue](#posséder-9999-points-sur-la-carte-bleue)
 - [Pourchasser de nouveau Latias ou Latios](#pourchasser-de-nouveau-latias-ou-latios)
 - [Pouvoir Utiliser le Sac](#pouvoir-utiliser-le-sac)
@@ -835,7 +835,7 @@ N.100
 D2000000 00000000
 ```
 ___
-### Pokémon Chromatiques
+### Tous les Pokémons sont chromatiques
 - Manipulation: Pas de Manip'
 - Note: Les Pokémon sauvages, offerts, reçus et ceux sortant d'un Œuf seront chromatiques.
 - Code:
